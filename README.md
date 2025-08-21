@@ -28,3 +28,7 @@ Where:
 ### Version 1 – Hardcoded
 ```bash
 python version1_hardcoded.py
+python version2_keyboard_input.py
+# Enter values when prompted
+python version3_file_input_single.py
+python version4_file_input_multiple.py
